@@ -2,32 +2,16 @@
 
 This project is a web-based code editor built with React and Monaco Editor. It allows users to write, edit, and execute code snippets in various programming languages.
 
+## Demo
+
+[Demo](https://dancingpumpkin65.github.io/code-compiler-monaco/)
+
 ## Features
 
 - **Code Editing**: Write and edit code using the Monaco Editor.
 - **Language Selection**: Choose from multiple programming languages including JavaScript, TypeScript, Python, Java, C#, and PHP.
 - **Code Execution**: Execute code snippets and view the output directly in the browser.
 - **Theming**: Dark mode support using Chakra UI.
-
-## Project Structure
-
-```
-index.html
-package.json
-public/
-README.md
-src/
-  api.js
-  App.jsx
-  components/
-    CodeEditor.jsx
-    LanguageSelector.jsx
-    Output.jsx
-  constants.js
-  main.jsx
-  theme.js
-vite.config.js
-```
 
 ## Getting Started
 
